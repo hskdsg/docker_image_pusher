@@ -2,4 +2,4 @@ alpine
 kasmweb/nginx:1.25.3
 nonebot/nb-cli:1.4-py3.11@sha256:a6a4ceefc173f189ac684f266f3d8c612b32cbe58f7371988ea66ffbf96334c1
 nonebot/nb-cli:1.4-py3.11@sha256:89d295e34209e17387ce9fc8f696523b068d01d5ac4174a5dab320ab0a26e841
-kylemanna/openvpn
+kylemanna/openvpn:2.4
